@@ -1,0 +1,12 @@
+# PyTorch: pasang dulu sesuai perangkat Anda (lihat PANDUAN.md, Langkah 1.5), lalu:
+torch
+transformers
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+gensim
+yfinance
+statsmodels
